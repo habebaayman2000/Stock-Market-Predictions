@@ -26,13 +26,13 @@ This is a **Streamlit web application** that uses a pre-trained **LSTM (Long Sho
 
 Install dependencies with:
 
-```bash
+```bash```bash
 pip install -r requirements.txt
 
 Make sure you are using Python 3.8 to 3.11 for best compatibility with Keras and TensorFlow.
 
 
-🧪 How It Works
+## 🧪 How It Works
 The user enters a stock ticker (e.g., AAPL, GOOG, MSFT).
 
 Historical data for the last 20 years is downloaded using yfinance.
